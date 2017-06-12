@@ -14,7 +14,7 @@
             <objects>
                 <controller id="AgC-eL-Hgc" customClass="InterfaceController" customModule="Wake_up_if_I_sleep__watch_OS_" customModuleProvider="target">
                     <items>
-                        <switch width="1" height="115" alignment="left" title="起こしますか？" id="nBa-t6-089"/>
+                        <switch width="1" height="115" alignment="left" value="YES" title="起こしますか？" id="nBa-t6-089"/>
                     </items>
                 </controller>
             </objects>
